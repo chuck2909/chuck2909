@@ -1,0 +1,1 @@
+Hello, my name is Carlos. I am a veteran, and I am interested in learning python. I first got into python when I took a cyber security course last summer. I would like to learn python in order to improve my skills as a cyber security expert. I enjoy watching soccer, walking my dog, and traveling. 
