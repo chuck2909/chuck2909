@@ -1,3 +1,6 @@
+![Header](./your-header-image-name.png)
+
+
 # Hi there 👋
 
 Welcome to my GitHub! I'm a graduate from Columbia University with a specialization in International Security Policy and a concentration in Technology, Media, and Communications. I'm currently enhancing my skills in Open Source Intelligence (OSINT) and cybersecurity, pursuing CompTIA certifications and the McAfee OSINT course.
@@ -15,3 +18,8 @@ Welcome to my GitHub! I'm a graduate from Columbia University with a specializat
 - ⚡ **Fun Fact:** I've traveled extensively, which fuels my passion for understanding global security dynamics.
 
 Feel free to reach out if you're interested in OSINT, cybersecurity, or just want to exchange insights on global security issues!
+
+
+<p align="center">
+  <img src="https://i.imgur.com/xOVntBp.jpeg" width="640" style="max-width:100%;">
+</p>
