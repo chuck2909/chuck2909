@@ -1,7 +1,7 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
-# Hi there 👋
+
 
 Welcome to my GitHub! I'm a graduate from Columbia University with a specialization in International Security Policy and a concentration in Technology, Media, and Communications. I'm currently enhancing my skills in Open Source Intelligence (OSINT) and cybersecurity, pursuing CompTIA certifications and the McAfee OSINT course.
 
